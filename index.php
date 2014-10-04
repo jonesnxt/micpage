@@ -5,8 +5,8 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9" />
 
 <script src="jquery.js"></script>
-<link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet"/>
-<script src="../bootstrap/js/bootstrap.min.js"></script>
+<link href="./bootstrap/css/bootstrap.min.css" rel="stylesheet"/>
+<script src="./bootstrap/js/bootstrap.min.js"></script>
 
 <style>
 * {
